@@ -1,5 +1,4 @@
 {
-    "data_collection_date": "30.07.2026",
     "ChatGPT":
     {
         "5.5 medium": {
@@ -3864,6 +3863,563 @@
                                 {
                                     "url": "https://kancelariafrejowskichf.pl",
                                     "title": "kancelariafrejowskichf.pl"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "3.5-flash": {
+            "sessions": [
+                {                                           
+                    "query": "czy warto uniewaznic kredyt w euro",
+                    "fan_out_queries": [                          
+                        "unieważnienie kredytu w euro warunki",
+                        "unieważnienie kredytu w euro korzyści",
+                        "unieważnienie kredytu w euro ryzyka koszty",
+                        "aktualne orzecznictwo unieważnienie kredytu euro",
+                        "unieważnienie kredytu walutowego euro polska",
+                        "czy unieważnienie kredytu w euro jest opłacalne"
+                    ],                                         
+                    "search_domains": [
+                        "ledwon-kancelaria.pl",
+                        "prawo.pl",
+                        "kancelariamadejczyk.biz",
+                        "votum-sa.pl",
+                        "kmb.legal",
+                        "ktmh.pl",
+                        "tvn24.pl",
+                        "medrecki-law.pl",
+                        "lukaszoles.pl",
+                        "chf24.pl",
+                        "instytutodszkodowan.pl",
+                        "kancelariatmh.pl",
+                        "lexconcordia.pl",
+                        "rachelski.pl",
+                        "zyciebezkredytu.pl",
+                        "basiewiczkasprzyk.pl",
+                        "fundacjafair.com",
+                        "arbitersa.pl"
+                    ],
+                    "search_results": [
+                        {
+                            "domain": "ledwon-kancelaria.pl",
+                            "results": [
+                                {
+                                    "url": "https://ledwon-kancelaria.pl",
+                                    "title": "ledwon-kancelaria.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "votum-sa.pl",
+                            "results": [
+                                {
+                                    "url": "https://votum-sa.pl",
+                                    "title": "votum-sa.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kancelariamadejczyk.biz",
+                            "results": [
+                                {
+                                    "url": "https://kancelariamadejczyk.biz",
+                                    "title": "kancelariamadejczyk.biz"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "tvn24.pl",
+                            "results": [
+                                {
+                                    "url": "https://tvn24.pl",
+                                    "title": "tvn24.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "prawo.pl",
+                            "results": [
+                                {
+                                    "url": "https://prawo.pl",
+                                    "title": "prawo.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "medrecki-law.pl",
+                            "results": [
+                                {
+                                    "url": "https://medrecki-law.pl",
+                                    "title": "medrecki-law.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "chf24.pl",
+                            "results": [
+                                {
+                                    "url": "https://chf24.pl",
+                                    "title": "chf24.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "basiewiczkasprzyk.pl",
+                            "results": [
+                                {
+                                    "url": "https://basiewiczkasprzyk.pl",
+                                    "title": "basiewiczkasprzyk.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kancelariatmh.pl",
+                            "results": [
+                                {
+                                    "url": "https://kancelariatmh.pl",
+                                    "title": "kancelariatmh.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "instytutodszkodowan.pl",
+                            "results": [
+                                {
+                                    "url": "https://instytutodszkodowan.pl",
+                                    "title": "instytutodszkodowan.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "lexconcordia.pl",
+                            "results": [
+                                {
+                                    "url": "https://lexconcordia.pl",
+                                    "title": "lexconcordia.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "fundacjafair.com",
+                            "results": [
+                                {
+                                    "url": "https://fundacjafair.com",
+                                    "title": "fundacjafair.com"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "arbitersa.pl",
+                            "results": [
+                                {
+                                    "url": "https://arbitersa.pl",
+                                    "title": "arbitersa.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kmb.legal",
+                            "results": [
+                                {
+                                    "url": "https://kmb.legal",
+                                    "title": "kmb.legal"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "ktmh.pl",
+                            "results": [
+                                {
+                                    "url": "https://ktmh.pl",
+                                    "title": "ktmh.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "rachelski.pl",
+                            "results": [
+                                {
+                                    "url": "https://rachelski.pl",
+                                    "title": "rachelski.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "zyciebezkredytu.pl",
+                            "results": [
+                                {
+                                    "url": "https://zyciebezkredytu.pl",
+                                    "title": "zyciebezkredytu.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "lukaszoles.pl",
+                            "results": [
+                                {
+                                    "url": "https://lukaszoles.pl",
+                                    "title": "lukaszoles.pl"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "query": "plusy i minusy unieważnienia kredytu w euro",
+                    "fan_out_queries": [
+                        "unieważnienie kredytu w euro plusy i minusy",
+                        "korzyści i ryzyka unieważnienia kredytu frankowego w euro",
+                        "skutki unieważnienia umowy kredytu w euro",
+                        "co to jest unieważnienie kredytu w euro",
+                        "czy warto unieważnić kredyt w euro"
+                    ],
+                    "search_domains": [
+                        "ledwon-kancelaria.pl",
+                        "prawo.pl",
+                        "kancelariamadejczyk.biz",
+                        "prawnikonline.com.pl",
+                        "votum-sa.pl",
+                        "finado.pl",
+                        "ktmh.pl",
+                        "behrendtiwspolnicy.pl",
+                        "lukaszoles.pl",
+                        "kancelariatmh.pl",
+                        "kancelaria-kuprewicz.pl",
+                        "interia.pl",
+                        "fundacjafair.com",
+                        "arbitersa.pl",
+                        "preda.info"
+                    ],
+                    "search_results": [
+                        {
+                            "domain": "ledwon-kancelaria.pl",
+                            "results": [
+                                {
+                                    "url": "https://ledwon-kancelaria.pl",
+                                    "title": "ledwon-kancelaria.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "votum-sa.pl",
+                            "results": [
+                                {
+                                    "url": "https://votum-sa.pl",
+                                    "title": "votum-sa.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kancelariatmh.pl",
+                            "results": [
+                                {
+                                    "url": "https://kancelariatmh.pl",
+                                    "title": "kancelariatmh.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "preda.info",
+                            "results": [
+                                {
+                                    "url": "https://preda.info",
+                                    "title": "preda.info"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "prawnikonline.com.pl",
+                            "results": [
+                                {
+                                    "url": "https://prawnikonline.com.pl",
+                                    "title": "prawnikonline.com.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "interia.pl",
+                            "results": [
+                                {
+                                    "url": "https://interia.pl",
+                                    "title": "interia.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "behrendtiwspolnicy.pl",
+                            "results": [
+                                {
+                                    "url": "https://behrendtiwspolnicy.pl",
+                                    "title": "behrendtiwspolnicy.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "fundacjafair.com",
+                            "results": [
+                                {
+                                    "url": "https://fundacjafair.com",
+                                    "title": "fundacjafair.com"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kancelaria-kuprewicz.pl",
+                            "results": [
+                                {
+                                    "url": "https://kancelaria-kuprewicz.pl",
+                                    "title": "kancelaria-kuprewicz.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "lukaszoles.pl",
+                            "results": [
+                                {
+                                    "url": "https://lukaszoles.pl",
+                                    "title": "lukaszoles.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kancelariamadejczyk.biz",
+                            "results": [
+                                {
+                                    "url": "https://kancelariamadejczyk.biz",
+                                    "title": "kancelariamadejczyk.biz"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "prawo.pl",
+                            "results": [
+                                {
+                                    "url": "https://prawo.pl",
+                                    "title": "prawo.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "arbitersa.pl",
+                            "results": [
+                                {
+                                    "url": "https://arbitersa.pl",
+                                    "title": "arbitersa.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "finado.pl",
+                            "results": [
+                                {
+                                    "url": "https://finado.pl",
+                                    "title": "finado.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "ktmh.pl",
+                            "results": [
+                                {
+                                    "url": "https://ktmh.pl",
+                                    "title": "ktmh.pl"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "query": "co upowaznia mnie do uniewaznienia kredytu w euro",
+                    "fan_out_queries": [
+                        "unieważnienie kredytu w euro warunki polska",
+                        "podstawy prawne unieważnienia kredytu walutowego euro"
+                    ],
+                    "search_domains": [
+                        "prawo.pl",
+                        "kancelariamadejczyk.biz",
+                        "votum-sa.pl",
+                        "ostaszewskikredytyfrankowe.pl",
+                        "ktmh.pl",
+                        "cst-kancelaria.pl",
+                        "pledziewicz.pl"
+                    ],
+                    "search_results": [
+                        {
+                            "domain": "cst-kancelaria.pl",
+                            "results": [
+                                {
+                                    "url": "https://cst-kancelaria.pl",
+                                    "title": "cst-kancelaria.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "ktmh.pl",
+                            "results": [
+                                {
+                                    "url": "https://ktmh.pl",
+                                    "title": "ktmh.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "votum-sa.pl",
+                            "results": [
+                                {
+                                    "url": "https://votum-sa.pl",
+                                    "title": "votum-sa.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "pledziewicz.pl",
+                            "results": [
+                                {
+                                    "url": "https://pledziewicz.pl",
+                                    "title": "pledziewicz.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kancelariamadejczyk.biz",
+                            "results": [
+                                {
+                                    "url": "https://kancelariamadejczyk.biz",
+                                    "title": "kancelariamadejczyk.biz"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "prawo.pl",
+                            "results": [
+                                {
+                                    "url": "https://prawo.pl",
+                                    "title": "prawo.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "ostaszewskikredytyfrankowe.pl",
+                            "results": [
+                                {
+                                    "url": "https://ostaszewskikredytyfrankowe.pl",
+                                    "title": "ostaszewskikredytyfrankowe.pl"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "query": "jak uniewaznic kredyt w euro",
+                    "fan_out_queries": [
+                        "jak unieważnić kredyt w euro",
+                        "unieważnienie kredytu w euro podstawy prawne",
+                        "anulowanie kredytu w euro polskie prawo",
+                        "unieważnienie kredytu walutowego euro"
+                    ],
+                    "search_domains": [
+                        "ledwon-kancelaria.pl",
+                        "prawo.pl",
+                        "kancelariamadejczyk.biz",
+                        "votum-sa.pl",
+                        "ktmh.pl",
+                        "medrecki-law.pl",
+                        "lexconcordia.pl",
+                        "zyciebezkredytu.pl",
+                        "cst-kancelaria.pl",
+                        "fundacjafair.com"
+                    ],
+                    "search_results": [
+                        {
+                            "domain": "ledwon-kancelaria.pl",
+                            "results": [
+                                {
+                                    "url": "https://ledwon-kancelaria.pl",
+                                    "title": "ledwon-kancelaria.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "votum-sa.pl",
+                            "results": [
+                                {
+                                    "url": "https://votum-sa.pl",
+                                    "title": "votum-sa.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "cst-kancelaria.pl",
+                            "results": [
+                                {
+                                    "url": "https://cst-kancelaria.pl",
+                                    "title": "cst-kancelaria.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "prawo.pl",
+                            "results": [
+                                {
+                                    "url": "https://prawo.pl",
+                                    "title": "prawo.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "kancelariamadejczyk.biz",
+                            "results": [
+                                {
+                                    "url": "https://kancelariamadejczyk.biz",
+                                    "title": "kancelariamadejczyk.biz"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "medrecki-law.pl",
+                            "results": [
+                                {
+                                    "url": "https://medrecki-law.pl",
+                                    "title": "medrecki-law.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "zyciebezkredytu.pl",
+                            "results": [
+                                {
+                                    "url": "https://zyciebezkredytu.pl",
+                                    "title": "zyciebezkredytu.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "ktmh.pl",
+                            "results": [
+                                {
+                                    "url": "https://ktmh.pl",
+                                    "title": "ktmh.pl"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "fundacjafair.com",
+                            "results": [
+                                {
+                                    "url": "https://fundacjafair.com",
+                                    "title": "fundacjafair.com"
+                                }
+                            ]
+                        },
+                        {
+                            "domain": "lexconcordia.pl",
+                            "results": [
+                                {
+                                    "url": "https://lexconcordia.pl",
+                                    "title": "lexconcordia.pl"
                                 }
                             ]
                         }
